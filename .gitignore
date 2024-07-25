@@ -1,0 +1,41 @@
+# Compiled output
+/dist
+/tmp
+/out-tsc
+
+# Node modules
+/node_modules
+
+# Dependency directories
+/bower_components
+/coverage
+
+# IDE and editor directories
+/.idea
+/.vscode
+/.history
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Environment files
+/.env
+/.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Angular build output
+/angular-*.json
+
+# Test results
+/karma-report
+/coverage/
+
+# Other
+/*.log
+*.swp
+*.swo
